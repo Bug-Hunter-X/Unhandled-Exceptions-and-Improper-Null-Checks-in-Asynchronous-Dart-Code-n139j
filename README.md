@@ -1,0 +1,3 @@
+# Unhandled Exceptions and Improper Null Checks in Asynchronous Dart Code
+
+This example demonstrates a common error in Dart: neglecting to handle exceptions and perform proper null checks in asynchronous operations. The `fetchData` function fetches data from a remote API, but it fails to handle potential errors gracefully.  The solution demonstrates proper exception handling and null safety techniques for improved robustness and reliability. 
